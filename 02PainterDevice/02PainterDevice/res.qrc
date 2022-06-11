@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtImage/lufei.jpeg</file>
+        <file>qtImage/wukong.jpeg</file>
+        <file>qtImage/xiaohuang.gif</file>
+    </qresource>
+</RCC>
