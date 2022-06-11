@@ -37,6 +37,7 @@ Widget::Widget(QWidget *parent)
        qDebug()<<"最后修改日期，"<<info.lastModified().toString("yyyy-MM-dd hh:mm:ss");
 
 
+
     });
 }
 
