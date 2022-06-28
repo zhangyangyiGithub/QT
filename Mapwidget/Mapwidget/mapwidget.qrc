@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/map.png</file>
+        <file>images/mapwidget_zh.ts</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
